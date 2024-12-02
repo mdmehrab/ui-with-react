@@ -1,10 +1,11 @@
-import Toolbar from "./components/Toolbar";
+import HeroSlyderSection from './components/HeroSlyderSection';
+import Toolbar from './components/Toolbar';
 
 function App() {
   return (
     <>
       <Toolbar />
-      
+      <HeroSlyderSection />
     </>
   );
 }
